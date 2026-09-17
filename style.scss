@@ -149,7 +149,7 @@ ins {
         cursor: pointer;
     };
 
-    &__loop {
+    &__loop, &__loop svg {
         position: absolute;
         top: 0;
         right: 30px;

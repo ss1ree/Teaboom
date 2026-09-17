@@ -136,7 +136,7 @@ ins {
 .tea__image {
   cursor: pointer;
 }
-.tea__loop {
+.tea__loop, .tea__loop svg {
   position: absolute;
   top: 0;
   right: 30px;
